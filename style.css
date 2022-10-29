@@ -1,0 +1,31 @@
+.heading{
+    width:100%;
+    text-align: center;
+    }
+    
+    
+    .heading h3{
+        display:inline;
+    }
+    
+    .heading button{
+        float: right;
+    
+        border:1px solid white;
+    }
+    
+    #developer_name{
+        position: fixed;
+        line-height: 2;
+        width: 100%;
+        text-align: center;
+        bottom: 0;
+        color: red;
+        background-color: aqua;
+    }
+    
+    canvas{
+        border-color: aquamarine;
+        box-shadow:20px;
+        position:center;
+    }
